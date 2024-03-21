@@ -1,10 +1,4 @@
 201-114-VA –Math Concepts
-401-619-VA – Professional Interaction
-420-101-VA – Programming 1
-420-121-VA – Introduction to Computer Science
-420-141-VA – Game Programming 1
-420-201-VA – Programming 2
-420-221-VA –Computer Environments
-420-231-VA – Database
-420-301-VA –Programming Patterns
-420-311-VA – Internet Programming
+
+***************************
+
