@@ -13,10 +13,3 @@
 420-411-VA – eCommerce
 420-421-VA – Networks
 420-431-VA – Application Development 2: Mobile
-420-436-VA – Systems Development
-420-511-VA – Web Services
-420-521-VA – Advanced Networks
-420-531-VA – Internet of Things
-420-541-VA – Game Programming 2
-420-601-VA – Internship
-420-621-VA – Ethical Hacking
