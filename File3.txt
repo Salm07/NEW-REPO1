@@ -1,0 +1,22 @@
+201-114-VA –Math Concepts
+401-619-VA – Professional Interaction
+420-101-VA – Programming 1
+420-121-VA – Introduction to Computer Science
+420-141-VA – Game Programming 1
+420-201-VA – Programming 2
+420-221-VA –Computer Environments
+420-231-VA – Database
+420-301-VA –Programming Patterns
+420-311-VA – Internet Programming
+420-321-VA – Unix
+420-331-VA – Application Development 1: Desktop
+420-411-VA – eCommerce
+420-421-VA – Networks
+420-431-VA – Application Development 2: Mobile
+420-436-VA – Systems Development
+420-511-VA – Web Services
+420-521-VA – Advanced Networks
+420-531-VA – Internet of Things
+420-541-VA – Game Programming 2
+420-601-VA – Internship
+420-621-VA – Ethical Hacking
